@@ -41,7 +41,7 @@ def printFoundHosts( allHostsList):
         print( "\nNo se encontraron dispositivos en el segmento de red indicado." )
 
 
-### Cuerpo del código para el script
+# Cuerpo del código para el script
 print( "\n*** Ivan Escaneador de dispositivos en la red ***\n" )
 
 devScanner = nmap.PortScanner()
